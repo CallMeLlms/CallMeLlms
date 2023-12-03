@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! 👋 I'm Juan Dela Cruz, passionate about coding and proficient in database management. I enjoy tackling complex problems and architecting elegant solutions. My journey in the tech realm commenced with my pursuit of a BS in Information Technology.
+Hi there! 👋 I'm Justine L. llamera, passionate about coding and proficient in database management. I enjoy tackling complex problems and architecting elegant solutions. My journey in the tech realm commenced with my pursuit of a BS in Information Technology.
 
 ## Education
 
@@ -23,5 +23,4 @@ Hi there! 👋 I'm Juan Dela Cruz, passionate about coding and proficient in dat
 
 ## Reach Me
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/juandelacruz/)
-- Email: juandelacruz@gmail.com
+- Email: jllamera06@gmail.com
