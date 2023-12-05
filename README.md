@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! 👋 I'm Justine L. llamera, passionate about coding and proficient in database management. I enjoy tackling complex problems and architecting elegant solutions. My journey in the tech realm commenced with my pursuit of a BS in Information Technology.
+Hi there! 👋 I'm Justine L. llamera, I'm a tech enthusiast who infuses every line of code with vibrant energy! I revel in tackling mind-bending challenges that sparkle with brilliance. My journey into the world of technology began with the pursuit of a BS in Information Technology, igniting a fire that fuels my quest for innovation and excellence every day!
 
 ## Education
 
@@ -25,3 +25,4 @@ Hi there! 👋 I'm Justine L. llamera, passionate about coding and proficient in
 ## Reach Me
 
 - Email: jllamera06@gmail.com
+- LinkedIn: [Justine Llamera](https://www.linkedin.com/in/justine-llamera-4107842a3/)
