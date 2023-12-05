@@ -10,10 +10,11 @@ Hi there! 👋 I'm Justine L. llamera, passionate about coding and proficient in
 
 ## Certifications
 
+- **SQL and Relational Databases 101**
 - **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**
 - **Oracle Cloud Data Management 2023 Certified Foundations Associate**
-- **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
-- **SQL and Relational Databases 101**
+- **Oracle Cloud Infrastructure 2023 Certified Foundations Associate** (https://catalog-education.oracle.com/pls/certview/sharebadge?id=D6618CD46BD0C0242BC7EC40E705E184C7E551CAAEE488CCE46143987C6CAE4A)
+
 
 ## Skill Sets
 
