@@ -10,6 +10,7 @@ Hi there! 👋 I'm Justine L. llamera, I'm a tech enthusiast who infuses every l
 
 ## Certifications
 
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/ad5779613d2c4ce58aff5175fa33691a)
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=6FA5693BD81DB115A9CAECC342185CC872D15FD946E3C4578D05C92CABCA4A31)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B941EB4C046446AD424C61ACEEF895A87E56CD78FE2743579E3D314451B78BCC)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D6618CD46BD0C0242BC7EC40E705E184C7E551CAAEE488CCE46143987C6CAE4A)
